@@ -1,5 +1,5 @@
 # DESIGN PATTERNS
 
 - python
-	Factory
-	Abstract Factory
+	1. Factory
+	2. Abstract Factory
